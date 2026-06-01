@@ -1,0 +1,9 @@
+{
+  "name": "symmetry-math",
+  "version": "1.0.0",
+  "description": "Mathematics of symmetry — group theory, wallpaper groups, orbit-stabilizer, Burnside lemma for the browser",
+  "main": "src/index.ts",
+  "scripts": { "test": "tsx --test test/index.test.ts" },
+  "license": "MIT",
+  "devDependencies": { "tsx": "^4.0.0", "@types/node": "^20.0.0" }
+}
